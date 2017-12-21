@@ -9,6 +9,8 @@ unsigned short int nz;
 
 void main()
 {
+
+
 	setlocale(LC_ALL, "Rus");
 
 start:
